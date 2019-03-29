@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/cucumber/cobertura-maven-plugin-2.7.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/cucumber/cucumber-extentsreport-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/cucumber/cucumber-reporting-3.19.0.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/cucumber/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/cucumberjars/Insprintjar/Insprintjar/seleniumjars/okio-1.14.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
