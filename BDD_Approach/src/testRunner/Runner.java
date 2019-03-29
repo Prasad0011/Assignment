@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 
 @CucumberOptions(
 		
-		features ="Feature",
+		features ="Features",
 		glue= {"stepDefinition"},
 		plugin= {"pretty"},
 		monochrome=true

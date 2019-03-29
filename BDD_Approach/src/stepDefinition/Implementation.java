@@ -20,7 +20,7 @@ public class Implementation {
 public void open_the_browser() throws Throwable {
     // Write code here that turns the phrase above into concrete actions
    
-	FileInputStream fis =new FileInputStream("C:\\Users\\NetWorkGiant\\eclipse-workspace\\BDD_Approach\\src\\objRepos\\ObjectRepository.properties");
+	FileInputStream fis =new FileInputStream("C:\\Users\\NetWorkGiant\\git\\BDD\\BDD_Approach\\src\\objRepos\\ObjectRepository.properties");
 	 objectRepo =new Properties();
 	
 	objectRepo.load(fis);
